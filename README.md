@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mejri mohamed ali</h1>
 <h3 align="center">Mobile Developer | Full Stack Web Developer from Tunisia</h3>
 
+- 🔭 I’m currently learning Flutter **Takwirti**
+
+- 💬 Ask me about **Flutter, Android ,PHP, MySQL, JavaScript, Java**
+
 - 📫 How to reach me **mejrihamouda8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
