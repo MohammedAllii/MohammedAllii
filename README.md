@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Flutter, Android ,PHP, MySQL, JavaScript, Java**
+- 💬 Ask me about **Flutter, Android ,PHP, MySQL, Java**
 
 - 📫 How to reach me **mejrihamouda8@gmail.com**
 
